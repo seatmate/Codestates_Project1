@@ -15,6 +15,8 @@
    - 
   3) YOLO
    - 위 OpenCV 처럼 YOLO 또한 차량 번호판 인식 모델에 많이 사용되어 이데 대해 학습함
+
+
 강의 컨텐츠 :
   1) Do it! 딥러닝 입문
   2) Youtube를 통해 프로젝트 관련 모델에 대해 학습
@@ -25,7 +27,9 @@
    - 위 두 개의 링크를 참조하여 프로젝트의 방향성을 인지 할 수 있게 되었음
  
 일정 :
- 주제 파악 > 데어터 탐색 > 데이터 전처리 > 모델 적용 > 모델 구현 > 결과 발표
+
+  - 주제 파악 > 데어터 탐색 > 데이터 전처리 > 모델 적용 > 모델 구현 > 결과 발표
  
 활용 데이터 :
+
  - kaggle ‘Car Number Plate Detection’ 의 data ‘Car_Number_Plate’를 활용 (https://www.kaggle.com/datasets/elysian01/car-number-plate-detection)
