@@ -23,7 +23,9 @@
    - https://velog.io/@mactto3487/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-OpenCV-%EC%9E%90%EB%8F%99%EC%B0%A8-%EB%B2%88%ED%98%B8%ED%8C%90-%EC%9D%B8%EC%8B%9D
    - https://blog.naver.com/PostView.naver?blogId=khcapfhd&logNo=221720447928
    - 위 두 개의 링크를 참조하여 프로젝트의 방향성을 인지 할 수 있게 되었음
+ 
 일정 :
  주제 파악 > 데어터 탐색 > 데이터 전처리 > 모델 적용 > 모델 구현 > 결과 발표
+ 
 활용 데이터 :
  - kaggle ‘Car Number Plate Detection’ 의 data ‘Car_Number_Plate’를 활용 (https://www.kaggle.com/datasets/elysian01/car-number-plate-detection)
